@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Runtime.InteropServices;
 
 namespace KeyboardLayoutSwitcherQToF.Services
@@ -28,7 +28,7 @@ namespace KeyboardLayoutSwitcherQToF.Services
 
         public void SetKeyboardLayout(string layoutHex)
         {
-            IntPtr hkl = LoadKeyboardLayout(layoutHex, KLF_ACTIVATE);
+            IntPtr hkl = LoadKeyboardLayout(layoutHex, KLF_ACTIVATE); //hkl: handle of keyboard layout
             if (hkl == IntPtr.Zero)
             {
                 int error = Marshal.GetLastWin32Error();
