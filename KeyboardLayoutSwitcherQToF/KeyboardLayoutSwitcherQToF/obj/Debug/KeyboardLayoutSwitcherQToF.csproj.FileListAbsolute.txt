@@ -1,0 +1,15 @@
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\bin\Debug\KeyboardLayoutSwitcherQToF.exe.config
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\bin\Debug\KeyboardLayoutSwitcherQToF.exe
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\bin\Debug\KeyboardLayoutSwitcherQToF.pdb
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.csproj.AssemblyReference.cache
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.csproj.SuggestedBindingRedirects.cache
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\MainWindow.baml
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\MainWindow.g.cs
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\App.g.cs
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF_MarkupCompile.cache
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.g.resources
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.Properties.Resources.resources
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.csproj.GenerateResource.cache
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.csproj.CoreCompileInputs.cache
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.exe
+C:\Users\CKO7SGB\VSProjects\KeyboardLayoutSwitcherQToF\KeyboardLayoutSwitcherQToF\obj\Debug\KeyboardLayoutSwitcherQToF.pdb
