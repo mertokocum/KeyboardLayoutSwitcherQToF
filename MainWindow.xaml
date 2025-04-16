@@ -1,0 +1,14 @@
+﻿<Window x:Class="KeyboardLayoutSwitcherQToF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Klavye Düzeni Değiştirici" Height="200" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel RenderTransformOrigin="0.5,0.5" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel.RenderTransform>
+            <ScaleTransform ScaleX="1" ScaleY="1"/>
+        </StackPanel.RenderTransform>
+        <TextBlock Text="Klavye Düzeni Seçin:" FontWeight="Bold"/>
+        <RadioButton x:Name="RadioButton_Q" Content="Turkish Q" Checked="RadioButton_Q_Checked" GroupName="LayoutGroup"/>
+        <RadioButton x:Name="RadioButton_F" Content="Turkish F" Checked="RadioButton_F_Checked" GroupName="LayoutGroup"/>
+    </StackPanel>
+</Window>
